@@ -1,0 +1,1 @@
+kill -INT $(ps aux | grep '[g]eth ' | awk '{print $2}')

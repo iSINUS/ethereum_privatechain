@@ -1,0 +1,1 @@
+nohup bootnode -nodekey bootnodeS1.key -verbosity 9 > bootnode.log &

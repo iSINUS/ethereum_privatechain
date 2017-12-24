@@ -1,0 +1,1 @@
+kill $(ps aux | grep '[b]ootnode ' | awk '{print $2}')

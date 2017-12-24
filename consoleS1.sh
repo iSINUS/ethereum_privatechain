@@ -1,0 +1,1 @@
+geth attach NetworkS1/geth.ipc

@@ -1,0 +1,1 @@
+geth  --identity testNetworkS1 init Genesis.json --datadir NetworkS1

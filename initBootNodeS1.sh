@@ -1,0 +1,1 @@
+bootnode -genkey bootnodeS1.key
