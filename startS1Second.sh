@@ -1,0 +1,1 @@
+nohup geth --networkid 65445641 --datadir NetworkS1 --bootnodes='enode://6fbb02f9c9c360631cd3992873927da485b35867139bcb35b20d406be5eb49cdac83dbdd7bce563409e3dd6599c74cb328f8dddacec3051d0bc50d9d49688d73@192.168.0.106:30303' --port 30333 > NetworkS1.log &
