@@ -1,0 +1,1 @@
+nohup geth --rpc --networkid 65445641 --datadir NetworkS1 --rpcapi 'web3,eth' --rpccorsdomain 'http://miniserver:8000' --rpcaddr miniserver --rpcport 8545 > NetworkS1.log &

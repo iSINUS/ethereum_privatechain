@@ -1,0 +1,1 @@
+nohup geth --networkid 65445641 --datadir NetworkS1 > NetworkS1.log &
